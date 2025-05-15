@@ -1,0 +1,9 @@
+One of the main challenges I faced during this assignment was working with XPath selectors. 
+Compared to CSS selectors, XPath feels more complex and less intuitive to me. 
+I had difficulty constructing the right paths to reach the specific elements 
+I needed, especially when elements were nested or lacked clear class names.
+
+To resolve this, I used browser developer tools to inspect the structure of the page and 
+experimented with different XPath expressions. 
+I also used online XPath testers and added print statements in my code to verify that 
+I was selecting the correct elements. With practice, I started to understand how to navigate
